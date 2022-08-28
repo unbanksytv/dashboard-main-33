@@ -46,8 +46,12 @@ const Home: NextPage = () => {
         {/* Top Section */}
         <h1 className={styles.h1}>LTL Custom Dashboard</h1>
         <p className={styles.explain}>
-          Learn how to dynamically create smart contracts using the thirdweb SDK
-          and view all of the contracts you&apos;ve created, similar to our{" "}
+        Photographers can count on help in digitizing their artworks, 
+        creating beautiful NFTs to match their physical work, 
+        and having personal guidance in minting their custom creator contracts. 
+        The artist can document their creative process on the LiveTheLifeTV Editorial. As with other NFT platforms, photographers can determine whether the artwork is a single issue (ERC721) or if there will be multiple (ERC1155) copies of the artwork.  
+        Learn how to dynamically create smart contracts using the thirdweb SDK
+        and view all of the contracts you&apos;ve created, similar to our{" "}
           <b>
             <a
               href="https://thirdweb.com/dashboard"
