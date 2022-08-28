@@ -61,7 +61,11 @@ export default function Deploy() {
         <h1 className={styles.h1}>LTL Custom Dashboard</h1>
         <p className={styles.explain}>
           LiveTheLifeTV is a web3 media company. Our art studio is powering the future of meta, digital, and traditional media. 
-          We are shaping our brand through storytelling, experiences, and community. Dynamically create smart contracts using the thirdweb SDK
+          We are shaping our brand through storytelling, experiences, and community. Photographers can count on help in digitizing their artworks, 
+          creating beautiful NFTs to match their physical work, and having personal guidance in minting their custom creator contracts. 
+          The artist can document their creative process on the LiveTheLifeTV Editorial. As with other NFT platforms, 
+          photographers can determine whether the artwork is a single issue (ERC721) or if there will be multiple (ERC1155) copies of the artwork.  
+          Dynamically create smart contracts using the thirdweb SDK
           and view all of the contracts you&apos;ve created, powered by our{" "}
           <b>
             <a
